@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Soft\second_course\LiTA\WolfAndSheeps\WolfAndSheeps\main.cpp(123): warning C4715: <lambda_2ca77fb84fc2c264c455408f856afbd2>::operator(): значение возвращается не при всех путях выполнения
+  WolfAndSheeps.vcxproj -> C:\Soft\second_course\LiTA\WolfAndSheeps\x64\Debug\WolfAndSheeps.exe
